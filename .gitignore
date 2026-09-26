@@ -9,5 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
-agentic_rag_pipeline.ipynb
+
 chroma_db
+documents
