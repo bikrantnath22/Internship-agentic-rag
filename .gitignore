@@ -12,3 +12,5 @@ wheels/
 
 chroma_db
 documents
+chroma_db_multi
+multi_docs
